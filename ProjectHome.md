@@ -1,0 +1,1 @@
+This app can be used for calculating a college GPA with custom options and simple user interface.
